@@ -1,0 +1,22 @@
+### 20 System Design Concepts:
+
+- Vertical scaling (add more resources)
+- Horizontal scaling (replicas) Complicated>>>
+- Load balancers (balance traffic) round robin
+- CDN (serve files regionwise -> caching)
+- Caching (copies so that refetch faster)
+- IP Address
+- TCP/IP, UDP (protocols to send data)
+- DNS (Domain Name System)
+- HTTP
+- REST
+- GraphQL (by FB) single request i.e Query
+- gRPC (by Google) improvent over REST, Protocol buffers
+- WebSocket (bidirectional comm)
+- SQL
+- ACID (Atomicity, Consistency, Isolation, Durability)
+- NoSQL (no relations) key-value, graph, document databases
+- Sharding \*(divide database on different machines)
+- Replication
+- CAP thrm (Consistency Availability we can achieve only one)
+- Message queues
